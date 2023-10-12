@@ -3,7 +3,7 @@ Quick Settings Audio Panel
 
 [<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" alt="Get it on GNOME Extensions" height="100" align="middle">](https://extensions.gnome.org/extension/5940/quick-settings-audio-panel/)
 
-Quick Settings Audio Panel (QSAP) is a gnome 43/44/45 extension that creates a new panel for sound related stuff in the quick settings.
+Quick Settings Audio Panel (QSAP) is a GNOME 43/44/45 extension that creates a new panel for sound related stuff in the quick settings.
 
 Features
 --------
@@ -32,7 +32,7 @@ Known incompatibilities are:
   - `Remove Media Control on Date Menu` (but not `Remove Notifications On Date Menu`) will remove the media controls from the sound panel if you **move** the media controls using this extension. If you **duplicate** the media controls with the extension, they won't be affected.
   - In some situations, disabling QSAP can crash QST.
 
-On Gnome Shell 43, compatibility with QST has not been tested.
+On GNOME Shell 43, compatibility with QST has not been tested.
 
 Manual installation
 -------------------
@@ -43,4 +43,4 @@ Instructions:
  * Download the [latest version](https://github.com/Rayzeq/quick-settings-audio-panel/releases)
  * Extract the zip archive you just downloaded in `~/.local/share/gnome-shell/extensions`
  * Rename the extracted folder to `quick-settings-audio-panel@rayzeq.github.io`
- * Restart gnome shell (the easiest way is to log out and log back in)
+ * Restart GNOME shell (the easiest way is to log out and log back in)
